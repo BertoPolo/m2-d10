@@ -15,3 +15,25 @@ body {
   width: 1rem;
   border: 4px solid;
 }
+
+.sustituto {
+  background: rgb(28, 10, 187);
+  height: 80px;
+  width: auto;
+}
+
+.pToDown {
+  margin-top: 0.5rem !important;
+}
+
+.nav-link.active {
+  color: purple !important;
+  background: transparent !important ;
+  border: none;
+}
+
+.cardy {
+  width: 230px;
+  height: 460px;
+  background: rgb(31, 29, 29);
+}
